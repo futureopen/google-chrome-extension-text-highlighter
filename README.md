@@ -7,3 +7,4 @@ TODO
 * Add a landing page for the extension
   * Add option to save highlights previous selects
   * Add option to change color of highlight
+* Add (detailed)comments 
